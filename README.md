@@ -4,7 +4,7 @@ This project focuses on HR Analytics, particularly Employee Attrition, using Pow
 🔍 Key Objectives
 ✅ Analyze employee demographics, experience, and performance trends.
 ✅ Identify factors contributing to employee attrition.
-✅ Use SQL for data extraction, Python for analysis, and Power BI/Tableau for visualization.
+✅ Use PowerBI for understanding HR problems.
 ✅ Provide an interactive dashboard for HR decision-making.
 
 ![HR Analytics Dashboard](https://github.com/user-attachments/assets/2c052ba4-449b-4e17-b411-4f18be6307ef)
